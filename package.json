@@ -1,0 +1,22 @@
+{
+  "name": "teste-prof",
+  "version": "1.0.0",
+  "description": "Exemplo de Deploy no Heroku Web",
+  "main": "app.js",
+  "scripts": {
+    "test": "test.js", 
+    "start": "node app.js"
+  },
+  "keywords": [
+    "deploy",
+    "heroku",
+    "ejs",
+    "express"
+  ],
+  "author": "Suellen Freitas",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}

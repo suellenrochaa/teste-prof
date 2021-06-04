@@ -1,0 +1,7 @@
+{
+  "name": "Site de Noticias",
+  "description": "Exemplo de Publicação no Heroku",
+  "repository": "",
+  "keywords": ["node", "express", "heroku", "HTTPs", "Deploy" ],
+  "image": "heroku/nodejs"
+}
